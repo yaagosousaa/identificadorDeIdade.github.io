@@ -1,0 +1,31 @@
+body {
+    font: normal 12pt arial;
+    background-color: rgb(39, 53, 99);
+    color: whitesmoke;
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    background-color: whitesmoke;
+    padding: 10px;
+    border-radius: 15px;
+    width: 400px;
+    margin: auto;
+    color: black;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+input#txtano {
+    width: 80px;
+}
+
+footer {
+    text-align: center;
+    font: italic 10pt arial;
+    color: whitesmoke;
+}
+
